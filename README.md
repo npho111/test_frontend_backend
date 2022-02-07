@@ -2,7 +2,7 @@
 
 ## Modelo de datos
 
-![Alt text](/imgs/modelo.jpg?raw=true "Modelamiento")
+[![modelo.png](https://i.postimg.cc/90VWjZQg/modelo.png)](https://postimg.cc/5Y7cBHv8)
 
 ## SQL
 
